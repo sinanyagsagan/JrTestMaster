@@ -1,0 +1,35 @@
+2023-12-31 17:29:08,253 INFO  [Log] Setting up test environment. 
+2023-12-31 17:29:14,702 INFO  [Log] Test environment setup completed. 
+2023-12-31 17:29:14,708 INFO  [SeturWebAutomationTests] Test case 1 started  
+2023-12-31 17:29:14,708 INFO  [SeturWebAutomationTests] Successfully navigated to the website. 
+2023-12-31 17:29:14,709 INFO  [SeturWebAutomationTests] Test Case 1 completed. 
+2023-12-31 17:29:14,716 INFO  [SeturWebAutomationTests] Test Case 2 started. 
+2023-12-31 17:29:14,728 INFO  [SeturWebAutomationTests] URL verification successful. 
+2023-12-31 17:29:14,728 INFO  [SeturWebAutomationTests] Test Case 2 completed. 
+2023-12-31 17:29:14,729 INFO  [SeturWebAutomationTests] Test Case 3 started. 
+2023-12-31 17:29:14,827 INFO  [SeturWebAutomationTests] Hotel tab default selection verification successful. 
+2023-12-31 17:29:14,828 INFO  [SeturWebAutomationTests] Test Case 3 completed. 
+2023-12-31 17:29:14,829 INFO  [SeturWebAutomationTests] Test Case 4 started. 
+2023-12-31 17:29:14,836 INFO  [CsvRead] Read data from CSV: {}Antalya 
+2023-12-31 17:29:18,246 INFO  [SeturWebAutomationTests] Antalya selection from dropdown successful. 
+2023-12-31 17:29:18,247 INFO  [SeturWebAutomationTests] Test Case 4 completed. 
+2023-12-31 17:29:18,248 INFO  [SeturWebAutomationTests] Test Case 5 started. 
+2023-12-31 17:29:42,127 INFO  [SeturWebAutomationTests] Date picker selection successful. 
+2023-12-31 17:29:42,127 INFO  [SeturWebAutomationTests] Test Case 5 completed. 
+2023-12-31 17:29:42,128 INFO  [SeturWebAutomationTests] Test Case 6 started. 
+2023-12-31 17:29:42,529 INFO  [SeturWebAutomationTests] Adult number increase and verification successful. 
+2023-12-31 17:29:42,529 INFO  [SeturWebAutomationTests] Test Case 6 completed. 
+2023-12-31 17:29:42,530 INFO  [SeturWebAutomationTests] Test Case 7 started. 
+2023-12-31 17:29:42,714 INFO  [SeturWebAutomationTests] Submit button checked and clicked successfully. 
+2023-12-31 17:29:42,714 INFO  [SeturWebAutomationTests] Test Case 7 completed. 
+2023-12-31 17:29:42,715 INFO  [SeturWebAutomationTests] Test Case 8 started. 
+2023-12-31 17:29:49,729 INFO  [SeturWebAutomationTests] Search page URL contains 'Antalya' verification successful. 
+2023-12-31 17:29:49,729 INFO  [SeturWebAutomationTests] Test Case 8 completed. 
+2023-12-31 17:29:49,730 INFO  [SeturWebAutomationTests] Test Case 9 started. 
+2023-12-31 17:29:50,127 INFO  [SeturWebAutomationTests] Number saved with random click method in 'Show Another Location' successful. 
+2023-12-31 17:29:50,127 INFO  [SeturWebAutomationTests] Test Case 9 completed. 
+2023-12-31 17:29:50,129 INFO  [SeturWebAutomationTests] Test Case 10 started. 
+2023-12-31 17:29:55,439 INFO  [SeturWebAutomationTests] Related field scroll and check value verification successful. 
+2023-12-31 17:29:55,440 INFO  [SeturWebAutomationTests] Test Case 10 completed. 
+2023-12-31 17:30:15,451 INFO  [Log] Tests execution finished. 
+2023-12-31 17:30:15,451 INFO  [Log] Test cleanup or post-test steps completed. 
